@@ -10,12 +10,12 @@
 
 Are you tired of Minecraft Bedrock addons that…
 
-❌ Come in **random, inconsistent formats**
-❌ Mix Behavior Packs and Resource Packs like chaos incarnate
-❌ Hide important files three folders deep for no reason
-❌ Ship with broken or duplicated UUIDs
-❌ Pretend there’s a “standard” when **THERE ISN’T ONE**
-❌ Break your world if you so much as *enable them in the wrong order*
+- ❌ Come in **random, inconsistent formats**
+- ❌ Mix Behavior Packs and Resource Packs like chaos incarnate
+- ❌ Hide important files three folders deep for no reason
+- ❌ Ship with broken or duplicated UUIDs
+- ❌ Pretend there’s a “standard” when **THERE ISN’T ONE**
+- ❌ Break your world if you so much as *enable them in the wrong order*
 
 👉 **STOP THE MADNESS.**
 
