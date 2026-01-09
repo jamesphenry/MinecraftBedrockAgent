@@ -57,13 +57,13 @@ Every creator ships something different:
 
 You drop it into your Bedrock server directory and suddenly the AI:
 
-🧠 Knows where packs go
-🧠 Knows what it may touch
-🧠 Knows what it must NEVER touch
-🧠 Knows Bedrock’s weird rules better than most humans
+= 🧠 Knows where packs go
+= 🧠 Knows what it may touch
+= 🧠 Knows what it must NEVER touch
+= 🧠 Knows Bedrock’s weird rules better than most humans
 
-✨ You don’t fix addon chaos anymore.
-✨ You DELEGATE it.
+= ✨ You don’t fix addon chaos anymore.
+= ✨ You DELEGATE it.
 
 ---
 
