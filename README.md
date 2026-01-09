@@ -198,10 +198,10 @@ This isn’t just a **one-way install machine**.
 
 Because AGENTS.md gives the AI *context*, you can also:
 
-🛠️ **Tell it what’s wrong**
-🧹 **Tell it to remove addons**
-🚫 **Tell it to disable packs**
-🧠 **Tell it to FIX things — not guess**
+- 🛠️ **Tell it what’s wrong**
+- 🧹 **Tell it to remove addons**
+- 🚫 **Tell it to disable packs**
+- 🧠 **Tell it to FIX things — not guess**
 
 ### 🪄 YES, YOU CAN JUST SAY THINGS LIKE:
 
